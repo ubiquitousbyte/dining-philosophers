@@ -9,5 +9,5 @@ if a philosopher can pick up both chopsticks, he can eat for a while. After a ph
 chopsticks and again starts to think. 
 
 This program simulates the behavior of the philosophers, where each philosopher is a thread and the chopsticks 
-are shared objects. It shouldn't be possible for two philosophers to hold the same chopstick at the same time. At the same time,
+are shared objects. It shouldn't be possible for two philosophers to hold the same chopstick at the same time. Likewise,
 no philosopher should starve. 
